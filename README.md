@@ -31,7 +31,9 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vengi83644&show_icons=true&locale=en&layout=compact" alt="vengi83644" /></p>
-
+<br><br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vengi83644&show_icons=true&locale=en" alt="vengi83644" /></p>
-
+<br><br>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vengi83644&" alt="vengi83644" /></p>
