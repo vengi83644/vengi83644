@@ -28,26 +28,21 @@
 <h3 align="left">Support:</h3>
 <p>
 <a href="https://www.buymeacoffee.com/vengi83644"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vengi83644" />
-</a></p><br><br>
-<br><br>
-<br><br>
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vengi83644&show_icons=true&locale=en&layout=compact" alt="vengi83644" /></div>
-<br><br>
-<br><be>
-<br><br>
-<br><br>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vengi83644&show_icons=true&locale=en" alt="vengi83644" /></div>
-<br><br>
-<br><br>
-  <br><br>
-<br><br>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vengi83644&" alt="vengi83644" /></div>
-  <br><br>
-<br><br>
-  <br><br>
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vengi83644" />
+</a></p>
 <br><br>
 <div>
-<a href="https://app.daily.dev/vengi83644"><img src="https://api.daily.dev/devcards/v2/mRwpHHkkF.png?r=dy7&type=wide" width="652" alt="Venkatesan Rethinam's Dev Card"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vengi83644&show_icons=true&locale=en&layout=compact" alt="vengi83644" />
+</div>
+<br><br>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vengi83644&show_icons=true&locale=en" alt="vengi83644" />
+</div>
+<br><be>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vengi83644&" alt="vengi83644" />
+</div>
+<br><br>
+<div>
+  <a href="https://app.daily.dev/vengi83644"><img src="https://api.daily.dev/devcards/v2/mRwpHHkkF.png?r=dy7&type=wide" width="652" alt="Venkatesan Rethinam's Dev Card"/></a>
 </div>
