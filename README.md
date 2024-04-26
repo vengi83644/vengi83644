@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venky (Venkatesan Rethinam)</h1>
-<h3 align="center">Web architect cum developer working in the .NET ecosystem with Azure and having completed many successful projects and products mainly Syncfusion Data Platform - Bold BI and Bold Reports.</h3>
+<h3 align="center">Full Stack Developer & Architect | C#, ASP.NET, SQL | I Help Companies Achieve Scalability and Efficiency with Azure Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengi83644&label=Profile%20views&color=0e75b6&style=flat" alt="vengi83644" /> </p>
 
