@@ -1,5 +1,5 @@
 # Venkatesan Rethinam
-**Engineering Manager | Senior .NET Architect | AI Integrator**
+**.NET Developer | AI Integrator**
 
 13+ years of engineering focused on the **Microsoft Ecosystem**. Currently spearheading enterprise modernization, bridging the gap between high-scale C# architecture and business-critical delivery.
 
