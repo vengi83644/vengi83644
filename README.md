@@ -6,8 +6,8 @@
 ---
 
 ### 🛡️ Core Competencies
-- **Backend:** .NET 8/9, C#, ASP.NET Core, EF Core, Microservices, API Design
-- **Frontend:** Angular, Vue.js, TypeScript, Blazor Hybrid
+- **Backend:** .NET, C#, ASP.NET Core, EF Core, Microservices, API Design
+- **Frontend:** Angular, Vue.js, TypeScript, Razor Hybrid
 - **Cloud & DevOps:** Azure Cloud Solutions, CI/CD Pipelines, GitHub Actions
 - **AI/ML:** GenAI Integration (Gemini, GitHub Copilot), MCP Servers, RAG Implementation
 
