@@ -21,12 +21,6 @@
 
 ---
 
-### 🛠️ Active Projects
-- **Resource Insight:** A browser extension using Manifest V3 to log and analyze web resource URLs.
-- **Local RAG Base:** Implementing a knowledge base using C# and Hugging Face embeddings.
-
----
-
 ### 📈 Stats & Connectivity
 - 🔭 Working on: High-concurrency enterprise systems and AI-driven workflows.
 - 🌱 Learning: Advanced LLM orchestration within the .NET environment.
